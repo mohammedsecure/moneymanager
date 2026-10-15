@@ -1,0 +1,16 @@
+{
+  "name": "المحفظة الذكية",
+  "short_name": "محفظتي",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#4f46e5",
+  "theme_color": "#4f46e5",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2331/2331941.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
